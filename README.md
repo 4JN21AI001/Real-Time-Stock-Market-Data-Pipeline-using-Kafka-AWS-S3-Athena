@@ -13,6 +13,7 @@ Tech Stack
 - yFinance API
 
 Architecture
+
 Producer → Kafka → Consumer → S3 → Athena
 
 ## ⚙️ Features
